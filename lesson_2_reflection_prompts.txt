@@ -1,7 +1,7 @@
 What happens when you initialize a repository? You initialize an empty directory. Why do you need to do it? To begin your version control.
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+How is the staging area different from the working directory and the repository? The staging area is where you bundle the files together into one commit for the repository.
+What value do you think it offers? It compresses the size of the commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
