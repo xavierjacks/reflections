@@ -1,2 +1,2 @@
 When would you want to use a remote repository rather than keeping all your work
-local?
+local? When working on another computer or multiple people working on a project.
